@@ -8,7 +8,7 @@ You can view the live demo [here](https://preeminent-selkie-3553fb.netlify.app/)
 
 ## Screenshot
 
-![Heat-Map Screenshot](screen.png)
+![Heat-Map Screenshot](public/screen.png)
 
 ## Installation
 
